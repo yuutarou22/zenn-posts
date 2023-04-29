@@ -8,7 +8,6 @@ published: false
 
 ## 
 
-
 https://asana.com/ja/resources/extreme-programming-xp
 
 https://www.fujitsu.com/jp/services/agile/featurestories/about-agile-01-02.html
